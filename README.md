@@ -6,6 +6,7 @@ The Trip datas have taken from NYC TLC Trip Record Data (Link: https://www1.nyc.
 ) and containing whole December 2020. Datas converted JSON format each days include 70 random trips.
 
 Some samples in app:
+//
 Top 5 the longest trips and distances:
 ![image](https://user-images.githubusercontent.com/83495182/116783004-ffe4d280-aa94-11eb-9835-b2343d3ea9b7.png)
 
